@@ -1,0 +1,11 @@
+
+[[config]]
+pipeline_clause_value_read=false
+# init_running_mode = "NoGapBtweenRounds"
+init_running_mode = "RealRoundGap"
+l3_cache_type = "Simple"
+ramu_cache_config = "HBM"
+# ideal_icnt = true
+ideal_icnt = false
+value_miss_hit_l3 = false
+

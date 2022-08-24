@@ -1,0 +1,14 @@
+*.log
+*.txt
+1x1*
+1x4*
+4x4*
+4x16*
+16*16*
+archive*
+old_archive*
+build*
+new_save_checkpoints
+.vscode
+.pytest_cache
+__pycache__
